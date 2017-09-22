@@ -1,0 +1,2 @@
+module EmployerPanelHelper
+end
